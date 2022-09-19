@@ -17,7 +17,7 @@
 <h3>Sou estudante universitária e Desenvolvedora Frontend.</h3>
 
 - 🎓 Curso o **primeiro período** da Graduação Técnica em **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAC - PR**. <br>
-- 👀 Tenho interesse em Desenvolvimento Web, UI/UX, Banco de Dados, Programação.
+- 👀 Tenho interesse em todo o universo da Programação.
 - 💬 Adoraria conversar sobre oportunidades de estágio.
 - 💞️ Em procura de aprender mais e me tornar uma excelente profissional.
 - 💡 Focada nos estudos. <br>
