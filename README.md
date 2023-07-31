@@ -16,7 +16,7 @@
 <!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Eu sou Ioly Oliveira!</h1> -->
 <h3>Sou estudante universitária e Desenvolvedora FullStack em Formação.</h3>
 
-- 🎓 Curso o **segundo período** da Graduação Técnica em **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAC - PR**. <br>
+- 🎓 Curso o **terceiro período** da Graduação Técnica em **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAC - PR**. <br>
 - 👀 Tenho interesse em todo o universo da Programação.
 - 👩‍💻 Desenvolvedora Júnior na empresa Digidata.
 - 💞️ Em procura de aprender mais e me tornar uma excelente profissional.
