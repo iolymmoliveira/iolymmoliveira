@@ -18,7 +18,7 @@
 
 - 🎓 Curso o **terceiro período** da Graduação Técnica em **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAC - PR**. <br>
 - 👀 Tenho interesse em todo o universo da Programação.
-- 👩‍💻 Desenvolvedora Júnior na empresa Digidata.
+- 👩‍💻 Desenvolvedora Júnior na empresa Rentcars.
 - 💞️ Em procura de aprender mais e me tornar uma excelente profissional.
 - 💡 Focada nos estudos e no trabalho. <br>
 - 📚 Me dedico em aprimorar meus conhecimentos e aprendender novas habilidades para crescer na área de tecnologia.
