@@ -1,25 +1,63 @@
 <h3 align="center">
-	Hello World!!!
+  Hello World!!!
   <br/>
   Eu sou Ioly Oliveira!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3> 
 <br/>
 
-<!-- SVG por DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Dev+FullStack+em+Formação;Sempre%20aprendendo%20novas%20coisas&center=true&width=640&height=45"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Desenvolvedora+Full+Stack;React+%7C+Java+%7C+Spring+Boot;Apaixonada+por+resolver+problemas+com+c%C3%B3digo&center=true&width=650&height=45">
+  </a>
 </p>
 
 ---
-<!-- <h1><img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> Eu sou Ioly Oliveira!</h1> -->
-<h3>Sou estudante universitária e Desenvolvedora FullStack em Formação.</h3>
 
-- 🎓 Curso o **quinto período** da Graduação Técnica em **Análise e Desenvolvimento de Sistemas** na **Faculdade SENAC - PR**. <br>
-- 👀 Tenho interesse em quase todo o universo da Programação.
-- 👩‍💻 Desenvolvedora Júnior na empresa Rentcars.
-- 💞️ Em procura de aprender mais e me tornar uma excelente profissional.
-- 💡 Focada nos estudos e no trabalho. <br>
-- 📚 Me dedico em aprimorar meus conhecimentos e aprendender novas habilidades para crescer na área de tecnologia.
-- 📫 Você pode se conectar comigo através deste [link](https://www.linkedin.com/in/iolymmoliveira/) ou por e-[Mail](mailto:iolymmoliveira@gmail.com).
+<h2>✨ Sobre mim</h2>
+
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas** em **2025**
+- 💼 Experiência como **Analista Desenvolvedora (2023 – 2025)**  
+- 💻 Atuação **Full Stack**, com foco em evolução contínua tanto em **Front-end** quanto em **Back-end**
+- ☕ Forte interesse em **Java**, **Spring Boot** e **ReactJS**
+- 🌱 Em busca de oportunidades que me permitam crescer, aprender continuamente e gerar impacto através da tecnologia
+- 🧠 Apaixonada por aprender, evoluir e construir soluções bem estruturadas
+- 📍 Curitiba – PR
+
+---
+
+<h3>⚡ Tech Stack</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,vue,nodejs,php,mysql,postgres,mongodb,github,docker,vite,webpack" />
+</p>
+
+---
+
+<h3>🌱 Atualmente estudando</h3>
+
+<p align="center">
+⚛️ React avançado (componentização, hooks, rotas, gerenciamento de estado, consumo de APIs, autenticação e CRUD)<br/>
+☕ Java com Spring Boot (arquitetura em camadas, APIs REST, segurança com OAuth2/JWT e boas práticas)<br/>
+🧪 Testes automatizados (unitários, integração, mocks, TDD e cobertura de código)<br/>
+🚀 Boas práticas de engenharia (Clean Code, Design Patterns, CI/CD e organização de projetos)
+</p>
+
+
+
+---
+
+<h3>🤝 Vamos nos conectar</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/iolymmoliveira/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ioly%20Oliveira-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a><br/>
+  <a href="mailto:iolymmoliveira@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-purple?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
