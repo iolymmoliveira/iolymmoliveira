@@ -46,12 +46,6 @@
 
 ---
 
-<h2>🚀 &nbsp;GitHub Status</h2>
-
-![ioly Oliveira Status GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iolymmoliveira&show_icons=true&theme=dracula)
-
----
-
 <h3>🌱&nbsp; Atualmente estudando</h3>
 
 - ⚛️&nbsp; React avançado & Next.js (SSR, SSG, performance e arquitetura)<br/>
