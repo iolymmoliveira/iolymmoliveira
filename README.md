@@ -48,7 +48,7 @@
 
 <h2>🚀 &nbsp;GitHub Status</h2>
 
-![ioly Oliveira Status GitHub](https://github-readme-stats.vercel.app/api?username=iolymmoliveira&show_icons=true&theme=dracula)
+![ioly Oliveira Status GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=iolymmoliveira&show_icons=true&theme=dracula)
 
 ---
 
